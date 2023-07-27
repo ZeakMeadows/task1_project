@@ -4,4 +4,6 @@
 # No commits yet
 # nothing to commit (create/copy files and use "git add" to track)
 
-print('Git is awesome!')
+user_input = input("Enter some data: ")
+
+print("You entered:", user_input)
