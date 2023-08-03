@@ -7,10 +7,11 @@ TASK1_PROJECT
 
 short description:
 
-this folder is intended for practice purposes only
+Python program that takes user input and prints the output
 
 Table of contents:
 
+- helloWorld.py
 - Task1_output_screenshot.jpg
 - Task2_output_screenshot.jpg
 
@@ -20,7 +21,7 @@ simply download and run the folder in your code editor of choice. Make sure the 
 
 Usage:
 
-For viewing purposes only
+The python code relies on user input and gives the user the input that the user added as a output.
 
 Credits:
 
