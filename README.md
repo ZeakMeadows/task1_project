@@ -1,30 +1,45 @@
-# Read Me
-<!-- 
+<div align="center">
+  <h1>TASK1_PROJECT</h1>
+  <p>Python program that takes user input and prints the output</p>
+</div>
 
-Porject Name:
+## Table of Contents
+
+- [Project Name](#project-name)
+- [Short Description](#short-description)
+- [Files](#files)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+
+## Project Name
 
 TASK1_PROJECT
 
-short description:
+## Short Description
 
 Python program that takes user input and prints the output
 
-Table of contents:
+## Files
 
 - helloWorld.py
 - Task1_output_screenshot.jpg
 - Task2_output_screenshot.jpg
 
-Installation:
+## Installation
 
-simply download and run the folder in your code editor of choice. Make sure the files are all in the same folder before running the python code.
+To get started with TASK1_PROJECT, follow these steps:
 
-Usage:
+1. Clone this repository to your local machine or download the ZIP file.
+2. Ensure you have Python installed on your system.
+3. Open the folder containing the project in your preferred code editor.
 
-The python code relies on user input and gives the user the input that the user added as a output.
+## Usage
 
-Credits:
+The Python code relies on user input and gives the user the input that the user added as an output.
 
-https://github.com/ZeakMeadows
+To run the Python code, simply execute the `helloWorld.py` script in your code editor or terminal.
 
--->
+## Credits
+
+Credit for this project goes to [ZeakMeadows](https://github.com/ZeakMeadows).
